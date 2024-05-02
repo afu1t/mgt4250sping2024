@@ -19,3 +19,7 @@ These questions are *especially* **important** because
 ## Interperting Visualizations
 ## Discussion & Summary
 ![Screenshot (50)](https://github.com/afu1t/mgt4250sping2024/assets/168783406/4a09cb7e-64c8-46b7-aab3-240b51d914a9)
+
+```
+import pandas as pd
+```
