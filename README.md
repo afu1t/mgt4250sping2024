@@ -13,3 +13,9 @@ These questions are *especially* **important** because
 3. Reason 3
 
 [Elon University](https://www.elon.edu)
+![Untitled](https://github.com/afu1t/mgt4250sping2024/assets/168783406/116a8a0c-f796-43ee-8ced-96f2dad113fb)
+
+## Data Description
+## Interperting Visualizations
+## Discussion & Summary
+![Screenshot (50)](https://github.com/afu1t/mgt4250sping2024/assets/168783406/4a09cb7e-64c8-46b7-aab3-240b51d914a9)
