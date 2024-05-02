@@ -12,7 +12,8 @@ These questions are *especially* **important** because
 2. Reason 2
 3. Reason 3
 
-*for tableau go to tableau public, sign up, click create, go to web offering, load data and create model, then click publish as and name workbook*
+*for tableau go to tableau public, sign up, click create, go to web offering, load data and create model, then click publish as and name workbook,
+onece saved use share button to get link for github*
 
 [Elon University](https://www.elon.edu)
 ![Untitled](https://github.com/afu1t/mgt4250sping2024/assets/168783406/116a8a0c-f796-43ee-8ced-96f2dad113fb)
