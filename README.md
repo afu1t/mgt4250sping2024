@@ -30,19 +30,18 @@ These questions are *especially* **important** because
 
 3.  [In your README file] Explain the data types and descriptons of the columns
 used in visualizatons.
-    Date: The date of the recorded stock market data.
-    S&P Price: The closing price of the S&P 500 index on that date.
-    S&P CVol (S&P Volume): The trading volume of the S&P 500 index stocks on that date.
-    S&P % Change: The percentage change in the S&P 500 index closing price from the previous trading day.
-    S&P Open: The opening price of the S&P 500 index on that date.
-    S&P High: The highest price reached by the S&P 500 index during the trading day.
-    S&P Low: The lowest price of the S&P 500 index during the trading day.
-    NVDA Price: The closing price of NVIDIA Corporation stocks on that date.
-    NVDA CVol (NVDA Volume): The trading volume of NVIDIA Corporation stocks on that date.
-    NVDA % Change: The percentage change in the NVIDIA Corporation stock price from the previous trading day.
-    NVDA Open: The opening price of NVIDIA Corporation stocks on that date.
-    NVDA High: The highest price reached by NVIDIA Corporation stocks during the trading day.
-    NVDA Low: The lowest price of NVIDIA Corporation stocks during the trading day.
+Data Types:
+    -
+    - 
+Colums
+    - Date: The date of the recorded stock market data.
+    - Price: The closing price of NVDA/S&P 500 on that date.
+    - CVol (Volume): The trading volume of the NVDA/S&P 500 on that date.
+    - % Change: The percentage change in NVDA/S&P 500 closing price from the previous trading day.
+    - Open: The opening price of NVDA/S&P 500 index on that date.
+    - High: The highest trading price NVDA/S&P 500 during the day.
+    - Low: The lowest trading price of NVDA/S&P 500 during the day.
+    
 
 ## Interperting Visualizations
 
