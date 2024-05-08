@@ -55,11 +55,11 @@ From Fatset:
  - Price: The closing price of NVDA/S&P 500 on that date.
  - CVol (Volume): The trading volume of the NVDA/S&P 500 on that date.
  - % Change: The percentage change in NVDA/S&P 500 closing price from the previous trading day.
-From Yahoo Finance
-    - Open: The opening price of NVDA/S&P 500 index on that date.
-    - High: The highest trading price NVDA/S&P 500 during the day.
-    - Low: The lowest trading price of NVDA/S&P 500 during the day.
 
+From Yahoo Finance:
+- Open: The opening price of NVDA/S&P 500 index on that date.
+- Low: The lowest trading price of NVDA/S&P 500 during the day.
+- High: The highest trading price NVDA/S&P 500 during the day.
 ## Interperting Visualizations
 
 
