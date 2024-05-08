@@ -1,13 +1,14 @@
 # MGT4250 Course Project
 Author: Aidan Fulton (afulton7@elon.edu)
+This is my Senior course Project for MGT4250 at Elon Univeristy
 
 [Link to Streamlit Dashboard](https://mgt4250sping2024-msv4h2cqbdprhvbrweqbqv.streamlit.app)
 
 ## Project Description: 
 ### Questions of interest
-- Q1
-- Q2
-- Q3
+- Q1: Is there a correlation between NVDA's price increase and overall market performance
+- Q2: What are the trends in trading volume for S&P 500 and NVIDIA, and how do they correlate with stock price movements?
+- Q3: How has the stock price of NVDA evolved over time, and are there specific months with notable price fluctuations?
 ### Important Statement
 These questions are *especially* **important** because
 1. Reason 1
@@ -16,7 +17,10 @@ These questions are *especially* **important** because
 
 ## Data Description
 
-1. Yahoo Finance:
+1. Yahoo Finance
+   - 
+   -
+   
 
 [Link to NVDA YahooFinance Historical Data](https://finance.yahoo.com/quote/NVDA/history)
 
@@ -28,21 +32,18 @@ These questions are *especially* **important** because
 
 [Link to S&P 500 FactSet Price History](https://my.apps.factset.com/workstation/navigator/company-security/price-history/SP50)
 
-3.  [In your README file] Explain the data types and descriptons of the columns
-used in visualizatons.
-Data Types:
-    - date
-    - date
-    - 
-Colums
-    -Date: The date of the recorded stock market data.
+3.  Data Types:
+       - Numerical: The date of the recorded stock market data.
+       - Nominal
+ 
+5.  Columns
+    - Date: The date of the recorded stock market data.
     - Price: The closing price of NVDA/S&P 500 on that date.
     - CVol (Volume): The trading volume of the NVDA/S&P 500 on that date.
     - % Change: The percentage change in NVDA/S&P 500 closing price from the previous trading day.
     - Open: The opening price of NVDA/S&P 500 index on that date.
     - High: The highest trading price NVDA/S&P 500 during the day.
     - Low: The lowest trading price of NVDA/S&P 500 during the day.
-    
 
 ## Interperting Visualizations
 
