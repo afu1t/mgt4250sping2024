@@ -62,7 +62,7 @@ From Yahoo Finance
 
 
 ### Figure 1 NVDA & S&P % Change per Month
-[Link to Figure 1](![Uploading % change.png…])
+[Link to Figure 1](https://github.com/afu1t/mgt4250sping2024/assets/168783406/688a1e7f-436a-4726-93f6-73f44ea56b07)
 1. 
 ```
 monthly_changes = filtered_data_percent_change.groupby("Month, Day, Year").agg({
