@@ -45,7 +45,7 @@ These questions are relevant because:
 3.  Data Types:
        - Numerical: Cvol, % Change, Open, Close, Price
        - Catagorical: Date 
-4.  Columns
+4.  Columns:
 
 Many columns in the datasets overlap, so it is important to select the correct ones and get rid of duplicate columns. Once data is collected combine datasets in an excel file or merge columns in python on Date  
 From Fatset:
