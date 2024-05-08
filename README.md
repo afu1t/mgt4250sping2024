@@ -62,7 +62,7 @@ From Yahoo Finance
 
 
 ### Figure 1 NVDA & S&P % Change per Month
-(https://github.com/afu1t/mgt4250sping2024/assets/168783406/688a1e7f-436a-4726-93f6-73f44ea56b07)
+[Link to Figure 1 Image](https://github.com/afu1t/mgt4250sping2024/assets/168783406/688a1e7f-436a-4726-93f6-73f44ea56b07)
 1. 
 ```
 monthly_changes = filtered_data_percent_change.groupby("Month, Day, Year").agg({
@@ -76,7 +76,8 @@ fig_percent_change = px.bar(monthly_changes, x="Month, Day, Year", y=["S&P % Cha
                                 color_discrete_sequence=['blue', 'red'])
 ```
 ### Figure 2 Monthly Trading Volume Per Stock
-[Link to Figure 2]()
+[Link to Figure 2 NVDA](https://github.com/afu1t/mgt4250sping2024/assets/168783406/904b3c21-a3c6-49d5-a7f5-eebc68618775)
+
 1. 
 ```
 y_data = f"{selected_stock_volume} CVol"
