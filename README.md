@@ -16,14 +16,31 @@ These questions are *especially* **important** because
 
 ## Data Description
 
-1. In your README file] Provide instructons about how to access and download
-your data correctly.
+1. Yahoo Finance:
 [Link to NVDA YahooFinance Historical Data](https://finance.yahoo.com/quote/NVDA/history)
+
 [Link to S&P 500 YahooFinance Historical Data](https://finance.yahoo.com/quote/%5EGSPC?.tsrc=fin-srch)
+
+2. FactSet
 [Link to NVDA FactSet Price History](https://my.apps.factset.com/workstation/navigator/company-security/price-history/NVDA-US)
+
 [Link to S&P 500 FactSet Price History](https://my.apps.factset.com/workstation/navigator/company-security/price-history/SP50)
+
 3.  [In your README file] Explain the data types and descriptons of the columns
 used in visualizatons.
+    Date: The date of the recorded stock market data.
+    S&P Price: The closing price of the S&P 500 index on that date.
+    S&P CVol (S&P Volume): The trading volume of the S&P 500 index stocks on that date.
+    S&P % Change: The percentage change in the S&P 500 index closing price from the previous trading day.
+    S&P Open: The opening price of the S&P 500 index on that date.
+    S&P High: The highest price reached by the S&P 500 index during the trading day.
+    S&P Low: The lowest price of the S&P 500 index during the trading day.
+    NVDA Price: The closing price of NVIDIA Corporation stocks on that date.
+    NVDA CVol (NVDA Volume): The trading volume of NVIDIA Corporation stocks on that date.
+    NVDA % Change: The percentage change in the NVIDIA Corporation stock price from the previous trading day.
+    NVDA Open: The opening price of NVIDIA Corporation stocks on that date.
+    NVDA High: The highest price reached by NVIDIA Corporation stocks during the trading day.
+    NVDA Low: The lowest price of NVIDIA Corporation stocks during the trading day.
 
 ## Interperting Visualizations
 
