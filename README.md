@@ -62,7 +62,7 @@ From Yahoo Finance
 
 
 ### Figure 1 NVDA & S&P % Change per Month
-[Link to Figure 1 Image](https://github.com/afu1t/mgt4250sping2024/assets/168783406/688a1e7f-436a-4726-93f6-73f44ea56b07)
+![Link to Figure 1 Image](https://github.com/afu1t/mgt4250sping2024/assets/168783406/688a1e7f-436a-4726-93f6-73f44ea56b07)
 
 1. 
 ```
@@ -78,7 +78,7 @@ fig_percent_change = px.bar(monthly_changes, x="Month, Day, Year", y=["S&P % Cha
 ```
 ### Figure 2 Monthly Trading Volume Per Stock
 ![Link to Figure 2 NVDA Trading Volume](https://github.com/afu1t/mgt4250sping2024/assets/168783406/904b3c21-a3c6-49d5-a7f5-eebc68618775)
-[](https://github.com/afu1t/mgt4250sping2024/assets/168783406/b00a0eff-6f59-4049-9e1c-6768c99028ff)
+![Link to Figure 2 S&P Trading Volume](https://github.com/afu1t/mgt4250sping2024/assets/168783406/b00a0eff-6f59-4049-9e1c-6768c99028ff)
 
 
 1. 
@@ -89,7 +89,8 @@ fig_trading_volume = px.bar(data, x="Year", y=y_data,
                                 color_discrete_sequence=['blue'])
 ```
 ### Figure 3 S&P 500 Candlestick Chart
-[Link to Figure 3]()
+![Link to Figure S&P 500 Candlestick](https://github.com/afu1t/mgt4250sping2024/assets/168783406/47a04118-de5b-42e3-9edd-9e98ca1820b8)
+
 1.
 ```
 fig_sp500 = go.Figure(data=[go.Candlestick(x=filtered_data_sp500["Date"],
@@ -102,7 +103,9 @@ fig_sp500.update_layout(title="S&P 500 Stock Price Over Time",
                             xaxis_rangeslider_visible=False)
 ```
 ### Figure 4 NVDA Candlestick Chart
-[Link to Figure 4]()
+
+![Figure 4 NVDA Candlestick](https://github.com/afu1t/mgt4250sping2024/assets/168783406/78150f99-fa39-460a-b74f-95072ff23e0b)
+
 1.
 ```
 fig_nvda = go.Figure(data=[go.Candlestick(x=filtered_data_nvda["Date"],
