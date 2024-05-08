@@ -1,16 +1,17 @@
 # MGT4250 Course Project
 Author: Aidan Fulton (afulton7@elon.edu)
+
 This is my Senior course Project for MGT4250 at Elon Univeristy
 
-[Link to Streamlit Dashboard](https://mgt4250sping2024-msv4h2cqbdprhvbrweqbqv.streamlit.app)
+[Link to Visualization Dashboard](https://mgt4250sping2024-msv4h2cqbdprhvbrweqbqv.streamlit.app)
 
 ## Project Description: 
 ### Questions of interest
 1. Is there a correlation between NVDA's price increase and overall market performance
-2. Q2: What are the trends in trading volume for S&P 500 and NVIDIA, and how do they correlate with stock price movements?
-3. Q3: How has the stock price of NVDA evolved over time, and are there specific months with notable price fluctuations?
-### Important Statement
-These questions are *especially* **important** because
+2. What are the trends in trading volume for S&P 500 and NVIDIA, and how do they correlate with stock price movements?
+3. How has the stock price of NVDA evolved over time, and are there specific months with notable price fluctuations?
+### Importance Statement
+These questions are relevant because:
 1. Reason 1
 2. Reason 2
 3. Reason 3
@@ -37,10 +38,9 @@ These questions are *especially* **important** because
 [Link to S&P 500 FactSet Price History](https://my.apps.factset.com/workstation/navigator/company-security/price-history/SP50)
 
 3.  Data Types:
-       - Numerical: The date of the recorded stock market data.
-       - Nominal
- 
-5.  Columns
+       - Numerical: Cvol, % Change, Open, Close, Price
+       - Catagorical: Date 
+4.  Columns
    Many columns in the datasets overlap, so it is important to select the correct ones and get rid of duplicate columns. Once data is collected combine datasets in an excel file or merge columns in python on Date  
 From Fatset:
     - Date: The date of the recorded stock market data.
