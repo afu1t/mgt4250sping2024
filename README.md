@@ -47,12 +47,14 @@ These questions are relevant because:
        - Catagorical: Date 
 4.  Columns:
 
-Many columns in the datasets overlap, so it is important to select the correct ones and get rid of duplicate columns. Once data is collected combine datasets in an excel file or merge columns in python on Date  
+Many columns in the datasets overlap, so it is important to select the correct ones and get rid of duplicate columns. Once data is collected combine datasets in an excel file or merge columns in python on Date.
+
 From Fatset:
-    - Date: The date of the recorded stock market data.
-    - Price: The closing price of NVDA/S&P 500 on that date.
-    - CVol (Volume): The trading volume of the NVDA/S&P 500 on that date.
-    - % Change: The percentage change in NVDA/S&P 500 closing price from the previous trading day.
+
+ - Date: The date of the recorded stock market data.
+ - Price: The closing price of NVDA/S&P 500 on that date.
+ - CVol (Volume): The trading volume of the NVDA/S&P 500 on that date.
+ - % Change: The percentage change in NVDA/S&P 500 closing price from the previous trading day.
 From Yahoo Finance
     - Open: The opening price of NVDA/S&P 500 index on that date.
     - High: The highest trading price NVDA/S&P 500 during the day.
