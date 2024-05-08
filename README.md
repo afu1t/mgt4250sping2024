@@ -15,16 +15,16 @@ These questions are *especially* **important** because
 3. Reason 3
 
 ## Data Description
-```python required packages
-import streamlit as st
-import pandas as pd
-import plotly.express as px
-import plotly.graph_objects as go
+
 1. In your README file] Provide instructons about how to access and download
 your data correctly.
-2.  [In your README file] Explain the data types and descriptons of the columns
+[Link to NVDA YahooFinance Historical Data](https://finance.yahoo.com/quote/NVDA/history)
+[Link to S&P 500 YahooFinance Historical Data](https://finance.yahoo.com/quote/%5EGSPC?.tsrc=fin-srch)
+[Link to NVDA FactSet Price History](https://my.apps.factset.com/workstation/navigator/company-security/price-history/NVDA-US)
+[Link to S&P 500 FactSet Price History](https://my.apps.factset.com/workstation/navigator/company-security/price-history/SP50)
+3.  [In your README file] Explain the data types and descriptons of the columns
 used in visualizatons.
-```
+
 ## Interperting Visualizations
 
 
