@@ -43,11 +43,11 @@ These questions are relevant because:
 [Link to S&P 500 FactSet Price History](https://my.apps.factset.com/workstation/navigator/company-security/price-history/SP50)
 
 3.  Data Types:
-   - Numerical: Cvol, % Change, Open, Close, Price
+   - Numerical: Cvol, % Change, Open, Low, High, Price
    - Catagorical: Date 
 4.  Columns:
 
-Many columns in the datasets overlap, so it is important to select the correct ones and get rid of duplicate columns. Once data is collected combine datasets in an excel file or merge columns in python on Date.
+Many columns in the datasets overlap, so it is important to select the correct ones and get rid of duplicate columns. Once data is collected combine datasets in an excel file or merge columns in python on Date, remove all columns that are not listed below.
 
 From Fatset:
 
