@@ -31,10 +31,11 @@ These questions are *especially* **important** because
 3.  [In your README file] Explain the data types and descriptons of the columns
 used in visualizatons.
 Data Types:
-    -
+    - date
+    - date
     - 
 Colums
-    - Date: The date of the recorded stock market data.
+    -Date: The date of the recorded stock market data.
     - Price: The closing price of NVDA/S&P 500 on that date.
     - CVol (Volume): The trading volume of the NVDA/S&P 500 on that date.
     - % Change: The percentage change in NVDA/S&P 500 closing price from the previous trading day.
