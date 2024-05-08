@@ -6,9 +6,9 @@ This is my Senior course Project for MGT4250 at Elon Univeristy
 
 ## Project Description: 
 ### Questions of interest
-- Q1: Is there a correlation between NVDA's price increase and overall market performance
-- Q2: What are the trends in trading volume for S&P 500 and NVIDIA, and how do they correlate with stock price movements?
-- Q3: How has the stock price of NVDA evolved over time, and are there specific months with notable price fluctuations?
+1. Is there a correlation between NVDA's price increase and overall market performance
+2. Q2: What are the trends in trading volume for S&P 500 and NVIDIA, and how do they correlate with stock price movements?
+3. Q3: How has the stock price of NVDA evolved over time, and are there specific months with notable price fluctuations?
 ### Important Statement
 These questions are *especially* **important** because
 1. Reason 1
