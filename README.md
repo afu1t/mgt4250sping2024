@@ -18,8 +18,9 @@ These questions are *especially* **important** because
 ## Data Description
 
 1. Yahoo Finance
-   - 
-   -
+   - Open Link to YahooFinance
+   - Apply 5 year under time period with daily trading frequency
+   - Select Download button located above Volume
    
 
 [Link to NVDA YahooFinance Historical Data](https://finance.yahoo.com/quote/NVDA/history)
@@ -27,6 +28,9 @@ These questions are *especially* **important** because
 [Link to S&P 500 YahooFinance Historical Data](https://finance.yahoo.com/quote/%5EGSPC?.tsrc=fin-srch)
 
 2. FactSet:
+   - Open FactSet Link
+   - Select Index Base as 5 years ago and daily trading frequency
+   - Select Download in top right corner
 
 [Link to NVDA FactSet Price History](https://my.apps.factset.com/workstation/navigator/company-security/price-history/NVDA-US)
 
@@ -37,10 +41,13 @@ These questions are *especially* **important** because
        - Nominal
  
 5.  Columns
+   Many columns in the datasets overlap, so it is important to select the correct ones and get rid of duplicate columns. Once data is collected combine datasets in an excel file or merge columns in python on Date  
+From Fatset:
     - Date: The date of the recorded stock market data.
     - Price: The closing price of NVDA/S&P 500 on that date.
     - CVol (Volume): The trading volume of the NVDA/S&P 500 on that date.
     - % Change: The percentage change in NVDA/S&P 500 closing price from the previous trading day.
+From Yahoo Finance
     - Open: The opening price of NVDA/S&P 500 index on that date.
     - High: The highest trading price NVDA/S&P 500 during the day.
     - Low: The lowest trading price of NVDA/S&P 500 during the day.
