@@ -3,7 +3,7 @@ Author: Aidan Fulton (afulton7@elon.edu)
 
 This is my Senior course Project for MGT4250 at Elon Univeristy
 
-(https://mgt4250sping2024-msv4h2cqbdprhvbrweqbqv.streamlit.app)
+[Streamlit Visualizations](https://mgt4250sping2024-yqhrxyeegsqphtr2ae38dp.streamlit.app/)
 
 ## Project Description: 
 ### Questions of interest
