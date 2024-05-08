@@ -17,11 +17,13 @@ These questions are *especially* **important** because
 ## Data Description
 
 1. Yahoo Finance:
+
 [Link to NVDA YahooFinance Historical Data](https://finance.yahoo.com/quote/NVDA/history)
 
 [Link to S&P 500 YahooFinance Historical Data](https://finance.yahoo.com/quote/%5EGSPC?.tsrc=fin-srch)
 
-2. FactSet
+2. FactSet:
+
 [Link to NVDA FactSet Price History](https://my.apps.factset.com/workstation/navigator/company-security/price-history/NVDA-US)
 
 [Link to S&P 500 FactSet Price History](https://my.apps.factset.com/workstation/navigator/company-security/price-history/SP50)
