@@ -77,8 +77,7 @@ fig_percent_change = px.bar(monthly_changes, x="Month, Day, Year", y=["S&P % Cha
                                 color_discrete_sequence=['blue', 'red'])
 ```
 ### Figure 2 Monthly Trading Volume Per Stock
-![Link to Figure 2 NVDA Trading Volume](https://github.com/afu1t/mgt4250sping2024/assets/168783406/904b3c21-a3c6-49d5-a7f5-eebc68618775)
-![Link to Figure 2 S&P Trading Volume](https://github.com/afu1t/mgt4250sping2024/assets/168783406/b00a0eff-6f59-4049-9e1c-6768c99028ff)
+![Link to Figure 2 NVDA Trading Volume](https://github.com/afu1t/mgt4250sping2024/assets/168783406/904b3c21-a3c6-49d5-a7f5-eebc68618775)![Link to Figure 2 S&P Trading Volume](https://github.com/afu1t/mgt4250sping2024/assets/168783406/b00a0eff-6f59-4049-9e1c-6768c99028ff)
 
 
 1. 
