@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 st.set_page_config(layout="wide")
-data = pd.read_excel("Documents/Updated SP500 & NVDA.xlsx")
+data = pd.read_excel("Updated SP500 & NVDA.xlsx")
 data["Date"] = pd.to_datetime(data["Date"])
 data["YearMonth"] = data["Date"].dt.to_period("M")
 
