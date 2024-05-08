@@ -12,12 +12,15 @@ This is my Senior course Project for MGT4250 at Elon Univeristy
 3. How has the stock price of NVDA evolved over time, and are there specific months with notable price fluctuations?
 ### Importance Statement
 These questions are relevant because:
-1. Unicorn stocks are becoming more prevelent as tech start-ups are breaking the $1B dollar barrier. It is important to identify trends, and with the correct data predictive model, unicorn ups can be identified before there $1B dollar valuation.
-2. Nvidia has become a market leader in the tech industry
-3. Reason 3
+1. Unicorn stocks are becoming more prevelent as tech start-ups are breaking the $1B dollar barrier. It is important to identify trends, and with the correct data predictive model, unicorn companies can be identified before there $1B dollar valuation.
+2. Nvidia breakout in 2023 quickely propelled them to a market leader in the tech industry, stock data should be studied to see if NVDA's earnings can be sustainable over the next few years
+3. Visualizing long term stock data can reveal unseen trends and can provide insights if the stock is over or under valued
 
 [Investopedia Unicorn Stocks Article](https://www.investopedia.com/terms/u/unicorn.asp)
+
 [Investor's Business Daily](https://www.investors.com/research/swing-trading/nvidia-stock-earnings-report-swing-trade-success/)
+
+[Investopedia Stock Valuation](https://www.investopedia.com/articles/fundamental-analysis/09/five-must-have-metrics-value-investors.asp)
 ## Data Description
 
 1. Yahoo Finance
