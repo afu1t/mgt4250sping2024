@@ -12,10 +12,12 @@ This is my Senior course Project for MGT4250 at Elon Univeristy
 3. How has the stock price of NVDA evolved over time, and are there specific months with notable price fluctuations?
 ### Importance Statement
 These questions are relevant because:
-1. Reason 1
-2. Reason 2
+1. Unicorn stocks are becoming more prevelent as tech start-ups are breaking the $1B dollar barrier. It is important to identify trends, and with the correct data predictive model, unicorn ups can be identified before there $1B dollar valuation.
+2. Nvidia has become a market leader in the tech industry
 3. Reason 3
 
+[Investopedia Unicorn Stocks Article](https://www.investopedia.com/terms/u/unicorn.asp)
+[Investor's Business Daily](https://www.investors.com/research/swing-trading/nvidia-stock-earnings-report-swing-trade-success/)
 ## Data Description
 
 1. Yahoo Finance
@@ -41,7 +43,8 @@ These questions are relevant because:
        - Numerical: Cvol, % Change, Open, Close, Price
        - Catagorical: Date 
 4.  Columns
-   Many columns in the datasets overlap, so it is important to select the correct ones and get rid of duplicate columns. Once data is collected combine datasets in an excel file or merge columns in python on Date  
+
+Many columns in the datasets overlap, so it is important to select the correct ones and get rid of duplicate columns. Once data is collected combine datasets in an excel file or merge columns in python on Date  
 From Fatset:
     - Date: The date of the recorded stock market data.
     - Price: The closing price of NVDA/S&P 500 on that date.
