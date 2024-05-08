@@ -20,6 +20,7 @@ onece saved use share button to get link for github*
 
 ## Data Description
 ## Interperting Visualizations
+[Streamlit Dashboard](https://mgt4250sping2024-msv4h2cqbdprhvbrweqbqv.streamlit.app)
 ## Discussion & Summary
 ![Screenshot (50)](https://github.com/afu1t/mgt4250sping2024/assets/168783406/4a09cb7e-64c8-46b7-aab3-240b51d914a9)
 
