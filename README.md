@@ -66,7 +66,7 @@ From Yahoo Finance:
 ### Figure 1 NVDA & S&P % Change per Month
 ![Link to Figure 1 Image](https://github.com/afu1t/mgt4250sping2024/assets/168783406/688a1e7f-436a-4726-93f6-73f44ea56b07)
 
-1. 
+1. The Monthly % change bar chart shows the fluxuations in both the S&P 500 and Nvidia per month. When analyzing the chart, the % change for NVDA is much more drastic than the S&P 500. This could be attributed the S&P 500 being an index fund that includes a diversified portfolio of stocks versus NVDA being one company and more sensitive to change. Overall this model does a good job of visualizing NVDA's preformance compared to the general stock market, and with datasets from YahooFinance and FactSet, any stock can be compared to the S&P 500.
 ```
 monthly_changes = filtered_data_percent_change.groupby("Month, Day, Year").agg({
         "S&P % Change": "sum",
@@ -82,7 +82,7 @@ fig_percent_change = px.bar(monthly_changes, x="Month, Day, Year", y=["S&P % Cha
 ![Link to Figure 2 NVDA Trading Volume](https://github.com/afu1t/mgt4250sping2024/assets/168783406/904b3c21-a3c6-49d5-a7f5-eebc68618775)![Link to Figure 2 S&P Trading Volume](https://github.com/afu1t/mgt4250sping2024/assets/168783406/b00a0eff-6f59-4049-9e1c-6768c99028ff)
 
 
-1. 
+1. The second figure shows trading volume per stock. Contrary to what I origianlly thought, trading volume does not have a major impact on stock preformance. The S&P 500 had a much higher trading volume than NVDA but its overall precent change was lower than NVDA. In turn, trading volume can be ruled out as a major factor for indentifying high-value stocks.
 ```
 y_data = f"{selected_stock_volume} CVol"
 fig_trading_volume = px.bar(data, x="Year", y=y_data,
@@ -92,7 +92,7 @@ fig_trading_volume = px.bar(data, x="Year", y=y_data,
 ### Figure 3 S&P 500 Candlestick Chart
 ![Link to Figure S&P 500 Candlestick](https://github.com/afu1t/mgt4250sping2024/assets/168783406/47a04118-de5b-42e3-9edd-9e98ca1820b8)
 
-1.
+1. Candlestick charts are often used by financial analysts and are a good tool for analyzing a stocks preformance over time. The S&P 500 has had consistant growth aside from 2020 (Covid-19), and overall provides solid returns for investors. Candlestick charts do a good job of visualizing the peaks and troughs on a graph, highlighting good and bad time periods for the stock market.
 ```
 fig_sp500 = go.Figure(data=[go.Candlestick(x=filtered_data_sp500["Date"],
                 open=filtered_data_sp500["S&P Open"], high=filtered_data_sp500["S&P High"],
@@ -107,7 +107,7 @@ fig_sp500.update_layout(title="S&P 500 Stock Price Over Time",
 
 ![Figure 4 NVDA Candlestick](https://github.com/afu1t/mgt4250sping2024/assets/168783406/78150f99-fa39-460a-b74f-95072ff23e0b)
 
-1.
+1. Similar to figure 3, a candlestick chart was deployed to analyze NVDA's stock preformance over the past 5 years. From 2019-2022 NVDA's stock price grew slowly, but skyrocketed in 2023 and 2024. Comparing NVDA's candlestick graph to the S&P 500 candlestick graph, NVDA perfromed significantlly better than the S&P 500 in 2023 and early 2024.
 ```
 fig_nvda = go.Figure(data=[go.Candlestick(x=filtered_data_nvda["Date"],
                 open=filtered_data_nvda["NVDA Open"], high=filtered_data_nvda["NVDA High"],
@@ -119,9 +119,9 @@ fig_nvda.update_layout(title="NVDA Stock Price Over Time",
 ```
 
 ## Discussion & Summary
-Find an artcle related to your questons and summarize the artcle.
-1. Ask your questons to generatve AI. Include generatve AI’s response with your
+1. Find an artcle related to your questons and summarize the artcle.
+2. Ask your questons to generatve AI. Include generatve AI’s response with your
 query (Ask as many as possible for proper responses; Menton that the response
 is generated from which generatve AI. For example, ChatGPT)
-2. Discuss whether your visualizatons align well with the artcle and generatve AI’s
+3. Discuss whether your visualizatons align well with the artcle and generatve AI’s
 response
