@@ -13,7 +13,7 @@ This is my Senior course Project for MGT4250 at Elon Univeristy
 ### Importance Statement
 These questions are relevant because:
 1. Unicorn stocks are becoming more prevelent as tech start-ups are breaking the $1B dollar barrier. It is important to identify trends, and with the correct data predictive model, unicorn companies can be identified before there $1B dollar valuation.
-2. Nvidia breakout in 2023 quickely propelled them to a market leader in the tech industry, stock data should be studied to see if NVDA's earnings can be sustainable over the next few years
+2. Nvidia's breakout in 2023 quickely propelled them to a market leader in the tech industry, stock data should be studied to see if NVDA's earnings can be sustainable over the next few years
 3. Visualizing long term stock data can reveal unseen trends and can provide insights if the stock is over or under valued
 
 [Investopedia Unicorn Stocks Article](https://www.investopedia.com/terms/u/unicorn.asp)
@@ -119,9 +119,14 @@ fig_nvda.update_layout(title="NVDA Stock Price Over Time",
 ```
 
 ## Discussion & Summary
-1. Find an artcle related to your questons and summarize the artcle.
-2. Ask your questons to generatve AI. Include generatve AI’s response with your
-query (Ask as many as possible for proper responses; Menton that the response
-is generated from which generatve AI. For example, ChatGPT)
-3. Discuss whether your visualizatons align well with the artcle and generatve AI’s
-response
+### Discussion Article: Nvidia briefly joins $1 trillion valuation club
+[Reuters NVDA surpasses 1 Trillion article](https://www.reuters.com/technology/nvidia-sets-eye-1-trillion-market-value-2023-05-30/)
+1. In May 2023, NVDA surpassed 1 trillion in market value. NVDA surged roughly 200% since October, outperforming countless companies in the S&P 500 due to rapid advancements in generative AI. Nvidia's chips are crucial for AI applications and dominate the market with the company controlling 80% of GPU production. Despite high valuations, analysts see further growth potential as AI technology continues to evolve. 
+
+2. Asking ChatGTP 4 Questions of interest
+
+ - as
+ - 
+3. Visualizatons vs. Generatve AI
+ - a
+ - b
