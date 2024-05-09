@@ -123,10 +123,10 @@ fig_nvda.update_layout(title="NVDA Stock Price Over Time",
 [Reuters NVDA surpasses 1 Trillion article](https://www.reuters.com/technology/nvidia-sets-eye-1-trillion-market-value-2023-05-30/)
 1. In May 2023, NVDA surpassed 1 trillion in market value. NVDA surged roughly 200% since October, outperforming countless companies in the S&P 500 due to rapid advancements in generative AI. Nvidia's chips are crucial for AI applications and dominate the market with the company controlling 80% of GPU production. Despite high valuations, analysts see further growth potential as AI technology continues to evolve. 
 
-2. Asking ChatGTP 4 Questions of interest
-
- - as
- - 
+2. Asking ChatGTP 4 Questions of interest:
+ - Typically, a positive correlation indicates that NVDA's stock price tends to move in the same direction as the market index. This requires statistical analysis of historical price data to compute the correlation coefficient. 
+ - Trading volume trends can reveal how actively a stock is being traded and can sometimes predict future price movements. An increase in trading volume can indicate heightened interest in the stock, often preceding either a price increase if the volume is buying-heavy, or a decrease if the volume is selling-heavy.
+ - NVIDIA's stock price history shows substantial fluctuations over time, which can be analyzed to identify specific patterns or trends. For instance, looking at monthly or yearly highs and lows, as well as any notable spikes or drops around specific events or during certain months, can provide insights into seasonal impacts or market reactions to company news and global events. According to historical data, NVIDIA has experienced significant price changes, often correlating with product launches, market trends, or financial reports.
 3. Visualizatons vs. Generatve AI
- - a
- - b
+ - Although generative AI an extremely powerful tool, ChatGTP4 did not do a good job of interperting the data and identifying trends. For example, trading volume can suggest a heightened interest in a stock, but in the case of NVDA it was not a major driver for the increase in price. More likely, the emergence of AI Nvidia's GPU and CPU's were the best avaliable product. 
+ - Similarly, the AI was not good at identifying trends in stock performance over time. NVDA's stock price did not seem to fluxuate down as much as the S&P 500, especially during Covid-19. Instead, NVDA had a dramatic price increase over a short period of time, while the S&P 500's price climed at a slower rate.
