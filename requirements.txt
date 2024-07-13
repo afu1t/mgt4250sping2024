@@ -1,8 +1,1 @@
-pandas
-streamlit
-matplotlib
-plotly
-scikit-learn
-xlrd
-openpyxl
-import plotly.graph_objects as go
+
