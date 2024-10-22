@@ -1,5 +1,5 @@
 # MGT4250 Course Project
-Author: Aidan Fulton (afulton7@elon.edu)
+Author: Aidan Fulton (aidanfulton@icloud.com)
 
 This is my Senior course Project for MGT4250 at Elon University
 
